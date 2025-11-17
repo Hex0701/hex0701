@@ -15,7 +15,7 @@ I thrive in fast-paced environments (the "tab chaos in dark mode" kind) and beli
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/aakash-aman-36b7b2216/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:aakash.sona0701@gmail.com" target="_blank">
