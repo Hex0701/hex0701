@@ -140,13 +140,3 @@ Highlights of my project work, focusing on performance and user experience.
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuragazad/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=material_palenight&hide_border=true&count_private=true" alt="Aakash's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/anuragazad/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=material_palenight&hide_border=true&count_private=true" alt="Aakash's Top Languages"/>
-  </a>
-</p>
